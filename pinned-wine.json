@@ -1,0 +1,9 @@
+{
+  "name": "Gcenx Wine Devel 11.13",
+  "version": "11.13",
+  "url": "https://github.com/Gcenx/macOS_Wine_builds/releases/download/11.13/wine-devel-11.13-osx64.tar.xz",
+  "sha256": "214e2044d32870688c715c9edb1005a61beb7ba21ffe8e819da485163f754bd0",
+  "size_bytes": 189855828,
+  "expected_runtime_layout": "Wine Devel.app/Contents/Resources/wine/{bin,lib,share}",
+  "download_policy": "The optional download command fetches this exact official archive into a private cache; apply also accepts a user-supplied verified archive."
+}

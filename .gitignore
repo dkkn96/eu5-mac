@@ -1,0 +1,35 @@
+# Local wrapper and compatibility assets
+*.app/
+*.dmg
+*.tar
+*.tar.xz
+*.tar.gz
+*.zip
+*.7z
+*.exe
+*.dll
+*.dylib
+
+# Private local evidence and backups
+.eu5-mac-backups/
+backups/
+cache/
+downloads/
+logs/
+registry/
+userdata/
+*.log
+*.reg
+*.sav
+*.ck3
+*.tmp
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor and OS files
+.DS_Store
+.venv/
+venv/
